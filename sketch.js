@@ -43,7 +43,7 @@ function setup() {
 function draw() {
  
 
-  background("Red");
+  background("blue");
 
   Engine.update(engine);
 
